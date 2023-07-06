@@ -12,7 +12,7 @@ from sqlalchemy.orm import Mapped
 from sqlalchemy.orm import Session
 from bs4 import BeautifulSoup
 from aiohttp import ClientSession
-
+pass
 config= {"url":"""https://hh.ru/search/vacancy?no_magic=true&L_save_area=true&text={text}&search_field={search_field}&excluded_text=&area=1&salary=&currency_code=RUR&experience=doesNotMatter&order_by=relevance&search_period=0&items_on_page={per_page}&page={page_num}""",
         "url_api":"https://api.hh.ru/",   # страница api
         "text":"Python+middle",    # текст поиска
