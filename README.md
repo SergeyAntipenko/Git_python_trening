@@ -1,1 +1,4 @@
-<a>Twitter</a> | <a>YouTube</a> | <a>LinkedIn</a> | <a>GitHub</a>
+<html>
+    <a href='https://github.com/SergeyAntipenko/Git_python_trening/tree/main/HomeWork_1'>Домашнее задание 1 </a>
+     <a href='https://github.com/SergeyAntipenko/Git_python_trening/tree/main/HomeWork_2'>Домашнее задание 2 </a>
+</html>
