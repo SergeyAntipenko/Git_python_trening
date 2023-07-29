@@ -4,4 +4,6 @@
 <li>скопировать dag_project.py и Каталог Project на сервер в корневую папку Airflow dags.
 <li> Настроить  подключение к БД в конфигурационном файле (Project/config.ini) connect_strin= <br>
  табличную часть dag создаст сомостоятельно 
+
+ 
 </html>
