@@ -19,7 +19,7 @@ egrul_process.py  - строка кода 91  <b>unzip_file(pathlib.Path(pathlib
 
 <br>
 <hr>
-
+<h4>Видео выполнения dag <h4>
 
 https://github.com/SergeyAntipenko/Git_python_trening/assets/138198354/8e8e8521-d56e-4773-a966-bc9798f83186
 
