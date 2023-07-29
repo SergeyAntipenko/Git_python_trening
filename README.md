@@ -19,6 +19,6 @@ egrul_process.py  - строка кода 91  <b>unzip_file(pathlib.Path(pathlib
 
 <br>
 <hr>
-<img src="https://github.com/SergeyAntipenko/Git_python_trening/blob/main/AirFlow_Graph.jpg">
+<img src="https://github.com/SergeyAntipenko/Git_python_trening/blob/main/graph_work.mkv">
 
 </html>
