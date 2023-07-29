@@ -6,7 +6,7 @@
  табличную часть dag создаст сомостоятельно 
 <br>
 <hr>
-<li>**create_table**  -  Создание таблиц<br>
+<li><b><u>create_table</u></b> -  Создание таблиц<br>
 <img src="https://github.com/SergeyAntipenko/Git_python_trening/blob/main/tabls.jpg" alt=" Создание таблиц">
 <li> dowload_egrul - выполняется загрузка в каталог Project (Если в коталаге уже есть загруженный файл и размер его совпадает загрузка не осуществляется )
 <li>import_egrul   -  производит разбор архива и загружает данные в БД <a href="https://github.com/SergeyAntipenko/Git_python_trening/blob/main/telecom_companies.csv" >Импортрованные данные в таблицу</a>
