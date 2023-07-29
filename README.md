@@ -9,7 +9,8 @@
 <li><b><u>create_table</u></b> -  Создание таблиц<br>
 <img src="https://github.com/SergeyAntipenko/Git_python_trening/blob/main/tabls.jpg" alt=" Создание таблиц">
 <li> <b><u>dowload_egrul</u></b> - выполняется загрузка в каталог Project (Если в коталаге уже есть загруженный файл и размер его совпадает загрузка не осуществляется )
-<li><b><u>import_egrul</u></b>   -  производит разбор архива и загружает данные в БД <a href="https://github.com/SergeyAntipenko/Git_python_trening/blob/main/telecom_companies.csv" >Импортрованные данные в таблицу</a>
+<li><b><u>import_egrul</u></b>   -  производит разбор архива и загружает данные в БД 
+[Импортрованные данные в таблицу]("https://github.com/SergeyAntipenko/Git_python_trening/blob/main/telecom_companies.csv")
 egrul_process.py  - строка кода 91  unzip_file(pathlib.Path(pathlib.PurePath(__file__).parents[0],name_file),codeOKEVD)   закоментирована если раскоментировать  загрузка в таблицу будут выполняться. Изза длительного процесса импорта в таблицу. 
 
 
